@@ -1,7 +1,6 @@
-
 # opts
 
-  Some librarys that don't use configurable require you to supply a large object for &quot;options&quot; you can use this tiny function to generate those objects nicely and supply them to the lib.
+  Some librarys that don't use configurable require you to supply a large object for &quot;options&quot;. you can use this tiny function to generate those objects nicely and supply them to the lib.
 
 ## Installation
 
